@@ -9,25 +9,24 @@
 # My Strategy for Solving the Puzzle
 
 1) Learn the Basics
-   * Know some basics 
-    - multi-tier architecture
-    - other computer languages like Java & Javascript
-    - other web servers like Tomcat Apache
-    - SQL database like MySQL.
-   * Missing knowledge
-    - python, flask, nginx, docker
-    
 2) Develop Architecture without Docker - Python -> Flask/NginX -> PostgreSQL
 3) Learn how Docker Compose fit into this archtitecture
 
 # Learn the Basics
 
-1) git clone system puzzle repo & see the Errors after running docker commands as instructed.
-2) Install Docker on my MacOS.
-3) Watch a couple short YouTube videos about Docker & Docker Compose
+1) Know the basics
+  - multi-tier architecture
+  - other computer languages like Java & Javascript
+  - other web servers like Tomcat Apache
+  - SQL database like MySQL.
+2) Need to learn python, flask, nginx, docker, docker-compose
+
+3) git clone system puzzle repo & see the Errors after running docker commands as instructed.
+4) Install Docker on my MacOS.
+5) Watch a couple short YouTube videos about Docker & Docker Compose
     * learn about Docker Hub
     * learn about Dockerfile, Requirements.txt, docker-compose.yml, etc.
-4) Hack around the files with PORT numbers a bit with no success.
+6) Hack around the files with PORT numbers a bit with no success.
 
 # Develop Architecture without Docker
 
