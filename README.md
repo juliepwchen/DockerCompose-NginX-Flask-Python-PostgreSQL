@@ -60,7 +60,7 @@
     * docker volume rm $(docker volume ls -q)
 
 6) Refresh some Linux commands used for Debugging
-    * netstat -abn | grep 8080"
+    * netstat -abn | grep 8080
     * sudo lsof -i:80
     * ps -ef | grep <PID>
     * kill -9 <PID>
