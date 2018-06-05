@@ -8,7 +8,15 @@
 
 # My Strategy for Solving the Puzzle
 
-1) Learn the Basics.
+1) Learn the Basics
+   * Know some basics 
+    - multi-tier architecture
+    - other computer languages like Java & Javascript
+    - other web servers like Tomcat Apache
+    - SQL database like MySQL.
+   * Missing knowledge
+    - python, flask, nginx, docker
+    
 2) Develop Architecture without Docker - Python -> Flask/NginX -> PostgreSQL
 3) Learn how Docker Compose fit into this archtitecture
 
