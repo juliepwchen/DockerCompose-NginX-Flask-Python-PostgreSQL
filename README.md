@@ -14,12 +14,13 @@
 
 # Learn the Basics
 
-1) Know the basics
+1) Existing Knowledge
   - multi-tier architecture
   - other computer languages like Java & Javascript
   - other web servers like Tomcat Apache
   - SQL database like MySQL.
-2) Need to learn python, flask, nginx, docker, docker-compose
+2) Missing Knowledge
+  - Need to learn python, flask, nginx, docker, docker-compose
 
 3) git clone system puzzle repo & see the Errors after running docker commands as instructed.
 4) Install Docker on my MacOS.
