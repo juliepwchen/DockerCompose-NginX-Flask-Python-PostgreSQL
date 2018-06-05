@@ -18,7 +18,7 @@
     * multi-tier architecture
     * other computer languages like Java & Javascript
     * other web servers like Tomcat Apache
-    * SQL database like MySQL.
+    * SQL database like MySQL & ORM tools
 2) Missing Knowledge
     * Need to learn python, flask, nginx, docker, docker-compose
 
