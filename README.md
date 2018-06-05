@@ -1,4 +1,4 @@
-# Insight DevOps Engineering Systems Puzzle
+# Solving Insight DevOps Engineering Systems Puzzle
 
 ## Table of Contents
 1. [My Strategy for Solving the Puzzle](README.md#my-strategy-for-solving-the-puzzle)
