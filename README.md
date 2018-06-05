@@ -10,7 +10,7 @@
 
 1) Learn the Basics.
 2) Develop Architecture without Docker - Python -> Flask/NginX -> PostgreSQL
-2) Learn how Docker Compose fit into this archtitecture
+3) Learn how Docker Compose fit into this archtitecture
 
 # Learn the Basics
 
@@ -47,21 +47,21 @@
 3) Learn about Docker Compose as an Orchestration Tool
 4) Learn about User-Defined Network (ie. Bridge Network)
 5) Learn some Docker commands used for Debugging 
-    > docker container ls
-    > docker rm -f <container-name>
-    > docker volume rm $(docker volume ls -q)
+    * docker container ls
+    * docker rm -f <container-name>
+    * docker volume rm $(docker volume ls -q)
 
 6) Refresh some Linux commands used for Debugging
-    > netstat -abn | grep 8080"
-    > sudo lsof -i:80
-    > ps -ef | grep <PID>
-    > kill -9 <PID>
-    > ping localhost
-    > sudo apachectl -k stop
-    > sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist"
+    * netstat -abn | grep 8080"
+    * sudo lsof -i:80
+    * ps -ef | grep <PID>
+    * kill -9 <PID>
+    * ping localhost
+    * sudo apachectl -k stop
+    * sudo launchctl unload -w /System/Library/LaunchDaemons/org.apache.httpd.plist"
 
 # Challenges
-* Online Docker/Docker Compose Documentation is somewhat confusing
+   * Online Docker/Docker Compose Documentation is somewhat confusing
     - Found various articles related to older version of Docker vs. Docker Compose & cause some confusion.
     
-* Port 8080 is occupied by Apache2 vHost & cause new PORT errors that were confusing with the original PORT errors.
+   * Port 8080 is occupied by Apache2 vHost & cause new PORT errors that were confusing with the original PORT errors.
