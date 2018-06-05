@@ -35,7 +35,7 @@
     * install python3
     * install Flask
     * create a simple hello.py
-    * see result web page on  http://0.0.0.0:5000/
+    * see result web page on 0.0.0.0:5000
 
 2) Create a Simple Python/Flask (with Flask WTForms) and PostGreSQL Web Application
     * install PostgreSQL 10
