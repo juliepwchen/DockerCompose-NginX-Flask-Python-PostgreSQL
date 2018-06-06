@@ -73,3 +73,6 @@
     - Found various articles related to older version of Docker vs. Docker Compose & cause some confusion.
     
    * Port 8080 is occupied by Apache2 vHost & cause new PORT errors that were confusing with the original PORT errors.
+   * Docker Compose used Bridge vs. WSGI (Web Server Gateway Interface) server (Gunicorn uWSGI - bridge between Flask & NginX)
+   
+   
