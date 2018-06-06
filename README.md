@@ -55,7 +55,7 @@
 3) Learn about Docker Compose as an Orchestration Tool
 4) Learn about User-Defined Network (ie. Bridge Network)
 5) Learn some Docker commands used for Debugging 
-    * docker container ls
+    * docker container ls OR docker ps -a
     * docker rm -f <container-name>
     * docker volume rm $(docker volume ls -q)
 
